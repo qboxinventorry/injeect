@@ -1,8 +1,9 @@
 {
      "cmd": [
-         "echo Hello world!"
+         "echo Hello wsorld!"
      ],
      "licenses": [
          "ip:127.0.0.1"
      ]
+
 }
